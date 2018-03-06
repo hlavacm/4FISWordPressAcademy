@@ -79,6 +79,9 @@ $table_prefix  = 'kt_wp_';
  */
 define('WP_DEBUG', false);
 
+define('AUTOSAVE_INTERVAL', 300); // seconds
+define('WP_POST_REVISIONS', false);
+
 /* That's all, stop editing! Happy blogging. */
 
 /** Absolute path to the WordPress directory. */

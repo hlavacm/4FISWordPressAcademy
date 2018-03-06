@@ -1,0 +1,16 @@
+/*
+Theme Name: 4FIS WordPress Academy Basic Child
+Theme URI: https://www.vse.cz/
+Author: Brilo Team
+Author URI: https://www.brilo.cz/
+Description: 4FIS WordPress Academy - Basic Theme Child
+Template: 4fis-wp-academy-basic
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: 4FIS_DOMAIN
+*/
+
+body {
+    background-color: red !important;
+}
