@@ -8,7 +8,7 @@
                     <div class="post-heading">
                         <h1><?php the_title(); ?></h1>
                         <span class="meta">
-                            <i class="fa fa-calendar"></i> <?php the_date("j.n.Y"); ?>
+                            <i class="fa fa-calendar"></i> <?php the_time("j.n.Y"); ?>
                             <i class="fa fa-user"></i> <?php echo get_the_author(); ?>
                         </span>
                     </div>

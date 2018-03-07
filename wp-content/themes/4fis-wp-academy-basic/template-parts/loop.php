@@ -11,7 +11,7 @@
         </h3>
     </a>
     <p class="post-meta">
-        <i class="fa fa-calendar"></i> <?php the_date("j.n.Y"); ?>
+        <i class="fa fa-calendar"></i> <?php the_time("j.n.Y"); ?>
         <i class="fa fa-user"></i> <?php echo get_the_author(); ?>
     </p>
 </div>
