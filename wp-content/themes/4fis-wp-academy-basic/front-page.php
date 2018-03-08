@@ -19,7 +19,7 @@
             <div class="col-lg-8 col-md-10 mx-auto">
                 <?php
                 $query = new WP_Query();
-                $posts = $query->query([
+                $query->query([
                     "post_type" => "post",
                     "post_status" => "publish",
                     "posts_per_page" => 5,

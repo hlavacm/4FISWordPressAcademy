@@ -20,8 +20,8 @@ function wp_enqueue_scripts_action_callback()
     wp_enqueue_style("theme-style", get_template_directory_uri() . "/css/clean-blog.min.css");
     wp_enqueue_style("custom-style", get_template_directory_uri() . "/style.css");
     // scripts
-    wp_enqueue_script("bootstrap-script", get_template_directory_uri() . "/vendor/bootstrap/js/bootstrap.bundle.min.js", ["jquery"]);
-    wp_enqueue_script("theme-script", get_template_directory_uri() . "/js/clean-blog.min.js", ["jquery"]);
+    wp_enqueue_script("bootstrap-script", get_template_directory_uri() . "/vendor/bootstrap/js/bootstrap.bundle.min.js", ["jquery"], null, true);
+    wp_enqueue_script("theme-script", get_template_directory_uri() . "/js/clean-blog.min.js", ["jquery"], null, true);
 }
 
 // --- menus ---------------------------
@@ -31,6 +31,7 @@ add_action("after_setup_theme", "after_setup_theme_action_callback");
 function after_setup_theme_action_callback()
 {
     register_nav_menu("header-menu", __("Menu v hlavičce", "4FIS_DOMAIN"));
+    register_nav_menu("footer-menu", __("Menu v patičce", "4FIS_DOMAIN"));
 }
 
 // --- pagination ---------------------------

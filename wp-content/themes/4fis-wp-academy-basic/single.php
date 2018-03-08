@@ -7,6 +7,9 @@
                 <div class="col-lg-8 col-md-10 mx-auto">
                     <div class="post-heading">
                         <h1><?php the_title(); ?></h1>
+                        <?php if (has_excerpt()) { ?>
+                            <span class="subheading"><?php echo wp_trim_words(get_the_excerpt(), 50); ?></span>
+                        <?php } ?>
                         <span class="meta">
                             <i class="fa fa-calendar"></i> <?php the_time("j.n.Y"); ?>
                             <i class="fa fa-user"></i> <?php echo get_the_author(); ?>
