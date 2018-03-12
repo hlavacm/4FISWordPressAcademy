@@ -31,6 +31,17 @@
                         <?php the_excerpt(); ?>
                     <?php } ?>
                     <?php the_content(); ?>
+                    <?php // the_meta(); ?>
+                    <ul class="list-group">
+                        <?php
+                        $testMeta = get_post_meta($post->ID, "Zkušební klíč", true);
+                        if (!empty($testMeta)) {
+                            ?>
+                            <li class="list-group-item"><?php _e("Zkušební klíč", "4FIS_DOMAIN") ?>: <?php echo $testMeta; ?></li>
+                            <?php
+                        }
+                        ?>
+                    </ul>
                 </div>
             </div>
         </div>
