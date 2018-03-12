@@ -82,6 +82,8 @@ define('WP_DEBUG', false);
 define('AUTOSAVE_INTERVAL', 300); // seconds
 define('WP_POST_REVISIONS', false);
 
+define ('WPLANG', 'cs_CZ');
+
 /* That's all, stop editing! Happy blogging. */
 
 /** Absolute path to the WordPress directory. */

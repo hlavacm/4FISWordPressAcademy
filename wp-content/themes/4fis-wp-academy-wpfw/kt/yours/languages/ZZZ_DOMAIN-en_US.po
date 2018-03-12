@@ -1,0 +1,448 @@
+# Translation of Themes - Twenty Seventeen in Czech
+# This file is distributed under the same license as the Themes - Twenty Seventeen package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Themes - 4FIS WordPress Academy WPFW\n"
+"POT-Creation-Date: 2018-03-12 09:54+0100\n"
+"PO-Revision-Date: 2018-03-12 09:54+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: kt/core\n"
+"X-Poedit-SearchPathExcluded-1: kt/kt_init.inc.php\n"
+
+#: 404.php:9
+msgid "404"
+msgstr "404"
+
+#: 404.php:10
+msgid "Stránka nenalezena"
+msgstr "Page not found"
+
+#: 404.php:21
+msgid "Přejít na úvod"
+msgstr "Go to the home"
+
+#: archives/archive.php:28 categories/category.php:32 index.php:29
+#: taxonomies/taxonomy.php:32
+msgid "Načíst další"
+msgstr ""
+
+#: front-page.php:23
+msgid "Přejít na všechny příspevky"
+msgstr "Go to all posts"
+
+#: functions.php:12
+#, php-format
+msgid ""
+"POZOR: WP Framework není k dispozici, zkontrolujte prosím adresář a "
+"inicializační soubor: %s"
+msgstr ""
+
+#: header.php:23
+msgid "Menu"
+msgstr "Menu"
+
+#: home.php:33
+msgid "K dispozici nejsou žádné reference..."
+msgstr ""
+
+#: kt/yours/configs/kt_zzz_page_config.inc.php:32
+#: kt/yours/configs/kt_zzz_post_config.inc.php:32
+#: kt/yours/configs/kt_zzz_reference_config.inc.php:35
+msgid "Parametry"
+msgstr ""
+
+#: kt/yours/configs/kt_zzz_reference_config.inc.php:41
+msgid "Datum:"
+msgstr ""
+
+#: kt/yours/configs/kt_zzz_reference_config.inc.php:43
+msgid "Klient:"
+msgstr ""
+
+#: kt/yours/configs/kt_zzz_reference_config.inc.php:45
+msgid "Typy:"
+msgstr ""
+
+#: kt/yours/configs/kt_zzz_theme_config.inc.php:39
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:71
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:72
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:73
+msgid "Kategorie"
+msgstr ""
+
+#: kt/yours/configs/kt_zzz_theme_config.inc.php:42
+msgid "Novinky:"
+msgstr ""
+
+#: kt/yours/configs/kt_zzz_theme_config.inc.php:55
+msgid "Konkurenční výhody"
+msgstr ""
+
+#: kt/yours/configs/kt_zzz_theme_config.inc.php:58
+msgid "Nadpis:"
+msgstr ""
+
+#: kt/yours/configs/kt_zzz_theme_config.inc.php:59
+msgid "Max. počet:"
+msgstr ""
+
+#: kt/yours/configs/kt_zzz_theme_config.inc.php:78
+msgid "Adresa"
+msgstr ""
+
+#: kt/yours/configs/kt_zzz_theme_config.inc.php:81
+msgid "Titulek:"
+msgstr ""
+
+#: kt/yours/configs/kt_zzz_theme_config.inc.php:82
+msgid "Ulice:"
+msgstr ""
+
+#: kt/yours/configs/kt_zzz_theme_config.inc.php:83
+msgid "Město:"
+msgstr ""
+
+#: kt/yours/configs/kt_zzz_theme_config.inc.php:84
+msgid "PSČ:"
+msgstr ""
+
+#: kt/yours/configs/kt_zzz_theme_config.inc.php:98
+msgid "Kontakty"
+msgstr ""
+
+#: kt/yours/configs/kt_zzz_theme_config.inc.php:101
+msgid "Telefon:"
+msgstr ""
+
+#: kt/yours/configs/kt_zzz_theme_config.inc.php:102
+msgid "Mobil:"
+msgstr ""
+
+#: kt/yours/configs/kt_zzz_theme_config.inc.php:103
+msgid "E-mail:"
+msgstr ""
+
+#: kt/yours/configs/kt_zzz_theme_config.inc.php:105
+msgid "E-mail musí být ve správném tvaru"
+msgstr ""
+
+#: kt/yours/configs/kt_zzz_theme_config.inc.php:120
+msgid "Sociální sítě"
+msgstr ""
+
+#: kt/yours/configs/kt_zzz_theme_config.inc.php:123
+msgid "Facebook:"
+msgstr ""
+
+#: kt/yours/configs/kt_zzz_theme_config.inc.php:125
+#: kt/yours/models/kt_zzz_theme_model.inc.php:186
+msgid "Twitter"
+msgstr ""
+
+#: kt/yours/configs/kt_zzz_theme_config.inc.php:127
+msgid "Google+:"
+msgstr ""
+
+#: kt/yours/configs/kt_zzz_theme_config.inc.php:129
+msgid "YouTube:"
+msgstr ""
+
+#: kt/yours/configs/kt_zzz_theme_config.inc.php:143
+msgid "Analytika"
+msgstr ""
+
+#: kt/yours/configs/kt_zzz_theme_config.inc.php:146
+msgid "Měřící kód:"
+msgstr ""
+
+#: kt/yours/configs/kt_zzz_theme_config.inc.php:147
+msgid "Měřící kód(y) Google Tag Manager nebo Analytics, popř. Seznam"
+msgstr ""
+
+#: kt/yours/configs/kt_zzz_theme_config.inc.php:150
+msgid "Pixel kód:"
+msgstr ""
+
+#: kt/yours/configs/kt_zzz_theme_config.inc.php:151
+msgid "Měřící (Facebook) Pixel kód(y) do hlavičky"
+msgstr ""
+
+#: kt/yours/enums/kt_zzz_reference_type_enum.inc.php:15
+msgid "Webdesign"
+msgstr ""
+
+#: kt/yours/enums/kt_zzz_reference_type_enum.inc.php:16
+msgid "Analýza"
+msgstr ""
+
+#: kt/yours/enums/kt_zzz_reference_type_enum.inc.php:17
+msgid "Programování"
+msgstr ""
+
+#: kt/yours/models/kt_zzz_theme_model.inc.php:181
+msgid "Facebook"
+msgstr ""
+
+#: kt/yours/models/kt_zzz_theme_model.inc.php:191
+msgid "Google+"
+msgstr ""
+
+#: kt/yours/models/kt_zzz_theme_model.inc.php:196
+msgid "YouTube kanál"
+msgstr ""
+
+#: kt/yours/presenters/kt_zzz_posts_presenter.inc.php:134
+#, fuzzy
+#| msgid "Zde zatím nejsou k dispozici žádné příspěvky..."
+msgid "Zde nejsou žádné příspěvky..."
+msgstr "There are no posts here yet …"
+
+#: kt/yours/requires/common/kt_zzz_theme_setup.inc.php:81
+msgid "Menu v hlavičce"
+msgstr "Menu in header"
+
+#: kt/yours/requires/common/kt_zzz_theme_setup.inc.php:86
+msgid "Default"
+msgstr ""
+
+#: kt/yours/requires/common/kt_zzz_theme_setup.inc.php:87
+msgid "Výchozí"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_post_definition.inc.php:9
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:114
+msgid "Foto"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:10
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:11
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:12
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:13
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:39
+#: partials/references.php:8
+msgid "Reference"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:14
+msgid "Archív referencí"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:15
+msgid "Atributy"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:16
+msgid "Nadřazená reference"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:17
+msgid "Všechny reference"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:18
+msgid "Přidat novou referenci"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:19
+msgid "Přidat novou"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:20
+msgid "Přidat referenci"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:21
+msgid "Upravit referenci"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:22
+msgid "Aktualizovat referenci"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:23
+msgid "Zobrazit referenci"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:24
+msgid "Zobrazit reference"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:25
+msgid "Hledat reference"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:26
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:87
+msgid "Nenalezeno"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:27
+msgid "Nenalezeno v koši"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:28
+msgid "Obrázek"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:29
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:31
+msgid "Zvolit obrázek"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:30
+msgid "Odstranit obrázek"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:32
+msgid "Vložit k referenci"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:33
+msgid "Nahrát k referenci"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:34
+msgid "Seznam referencí"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:35
+msgid "Seznam referencí menu"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:36
+msgid "Filtrovat reference"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:40
+msgid "Entita reference"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:74
+msgid "Všechny kategorie"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:75
+msgid "Nadřazená kategorie"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:76
+msgid "Nadřazená kategorie:"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:77
+msgid "Nová kategorie"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:78
+msgid "Přidat novou kategorii"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:79
+msgid "Upravit kategorii"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:80
+msgid "Aktualizovat kategorii"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:81
+msgid "Zobrazit kategorii"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:82
+msgid "Oddělte kategorie čárkami"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:83
+msgid "Přidat nebo odebrat kategorie"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:84
+msgid "Vybrat z nejpouživanějších"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:85
+msgid "Populární kategorie"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:86
+msgid "Hledat kategorie"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:88
+msgid "Žádné kategorie"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:89
+msgid "Seznam kategorií"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:90
+msgid "Seznam kategorií menu"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:119
+msgid "Datum"
+msgstr ""
+
+#: kt/yours/requires/definitions/kt_zzz_reference_definition.inc.php:126
+msgid "Klient"
+msgstr ""
+
+#: kt/yours/requires/functions/kt_zzz_general_functions.inc.php:39
+#, php-format
+msgid "%d referencí"
+msgstr ""
+
+#: kt/yours/requires/metaboxes/kt_zzz_metaboxes.admin.inc.php:28
+msgid "Obsahové zktratky"
+msgstr ""
+
+#: loops/loop-empty.php:3 partials/empty.php:3
+msgid "Žádné příspěvky"
+msgstr "No posts"
+
+#: loops/loop-empty.php:6 partials/empty.php:6
+msgid "Zde zatím nejsou k dispozici žádné příspěvky..."
+msgstr "There are no posts here yet …"
+
+#: partials/pagination.php:4
+msgid "Starší příspěvky &raquo;"
+msgstr "Older posts &raquo;"
+
+#: partials/pagination.php:7
+msgid "&laquo; Novější příspěvky"
+msgstr "&laquo; Newer posts"
+
+#: search.php:9
+msgid "Hledaný výraz:"
+msgstr "Search term:"
+
+#: searchform.php:2
+msgid "Hledat &hellip;"
+msgstr "Search &hellip;"
+
+#~ msgid "Menu v patičce"
+#~ msgstr "Menu in the footer"
+
+#~ msgid "Výchozí postraní panel"
+#~ msgstr "Default sidebar panel"
+
+#~ msgid "Zkušební klíč"
+#~ msgstr "Sample key"
+
+#~ msgctxt "comments title"
+#~ msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+#~ msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+#~ msgstr[0] "%1$s odpověď na &ldquo;%2$s&rdquo;"
+#~ msgstr[1] "%1$s odpovědi na &ldquo;%2$s&rdquo;"

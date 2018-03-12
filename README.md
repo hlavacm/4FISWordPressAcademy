@@ -1,8 +1,8 @@
 # 4FIS WordPress Academy
 
-## Powered by Brilo.cz @ VŠE
+## Powered by [Brilo Team](https://www.brilo.cz/) @ VŠE
 
-Nainstalovaný WordPress se zpracovanými šablonami (na základě [Clean Blog](https://startbootstrap.com/template-overviews/clean-blog/) + SQL skript pro obnovu databáze):
+Nainstalovaný WordPress se zpracovanými šablonami (na základě [Clean Blog](https://startbootstrap.com/template-overviews/clean-blog/)) a pluginem + SQL skript pro obnovu databáze:
 
 ### Šablony
 

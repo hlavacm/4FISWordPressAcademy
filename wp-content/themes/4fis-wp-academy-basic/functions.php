@@ -76,3 +76,8 @@ register_sidebar([
     "before_title" => "<h2 class=\"widgettitle\">",
     "after_title" => "</h2>\n",
 ]);
+
+// --- languages ---------------------------
+
+$customThemeLanguagePath = path_join(get_template_directory(), "languages");
+load_theme_textdomain("4FIS_DOMAIN", $customThemeLanguagePath);

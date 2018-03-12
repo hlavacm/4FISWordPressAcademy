@@ -1,0 +1,84 @@
+# Translation of Themes - Twenty Seventeen in Czech
+# This file is distributed under the same license as the Themes - Twenty Seventeen package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Themes - 4FIS WordPress Academy Basic\n"
+"POT-Creation-Date: 2018-03-12 09:25+0100\n"
+"PO-Revision-Date: 2018-03-12 09:36+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ../../themes/4fis-wp-academy-basic\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:9
+msgid "404"
+msgstr "404"
+
+#: 404.php:10
+msgid "Stránka nenalezena"
+msgstr "Page not found"
+
+#: 404.php:21
+msgid "Přejít na úvod"
+msgstr "Go to the home"
+
+#: front-page.php:37
+msgid "Přejít na všechny příspevky"
+msgstr "Go to all posts"
+
+#: functions.php:33
+msgid "Menu v hlavičce"
+msgstr "Menu in header"
+
+#: functions.php:34
+msgid "Menu v patičce"
+msgstr "Menu in the footer"
+
+#: functions.php:70
+msgid "Výchozí postraní panel"
+msgstr "Default sidebar panel"
+
+#: header.php:18
+msgid "Menu"
+msgstr "Menu"
+
+#: search.php:9
+msgid "Hledaný výraz:"
+msgstr "Search term:"
+
+#: searchform.php:2
+msgid "Hledat &hellip;"
+msgstr "Search &hellip;"
+
+#: single.php:40
+msgid "Zkušební klíč"
+msgstr "Sample key"
+
+#: template-parts/empty.php:3
+msgid "Žádné příspěvky"
+msgstr "No posts"
+
+#: template-parts/empty.php:6
+msgid "Zde zatím nejsou k dispozici žádné příspěvky..."
+msgstr "There are no posts here yet …"
+
+#: template-parts/pagination.php:4
+msgid "Starší příspěvky &raquo;"
+msgstr "Older posts &raquo;"
+
+#: template-parts/pagination.php:7
+msgid "&laquo; Novější příspěvky"
+msgstr "&laquo; Newer posts"
+
+#~ msgctxt "comments title"
+#~ msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+#~ msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+#~ msgstr[0] "%1$s odpověď na &ldquo;%2$s&rdquo;"
+#~ msgstr[1] "%1$s odpovědi na &ldquo;%2$s&rdquo;"

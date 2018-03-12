@@ -17,3 +17,5 @@ define("KT_ZZZ_REFERENCE_CATEGORY_SLUG", "kategorie-referenci");
 // --- inicializace ---------------------------
 
 kt_initialize_module("ZZZ");
+
+kt_load_textdomain("ZZZ_DOMAIN", KT_ZZZ_PATH);
